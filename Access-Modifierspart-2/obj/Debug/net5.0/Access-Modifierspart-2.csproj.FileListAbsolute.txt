@@ -1,0 +1,16 @@
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\bin\Debug\net5.0\Access-Modifierspart-2.exe
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\bin\Debug\net5.0\Access-Modifierspart-2.deps.json
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\bin\Debug\net5.0\Access-Modifierspart-2.runtimeconfig.json
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\bin\Debug\net5.0\Access-Modifierspart-2.runtimeconfig.dev.json
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\bin\Debug\net5.0\Access-Modifierspart-2.dll
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\bin\Debug\net5.0\ref\Access-Modifierspart-2.dll
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\bin\Debug\net5.0\Access-Modifierspart-2.pdb
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\obj\Debug\net5.0\Access-Modifierspart-2.csproj.AssemblyReference.cache
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\obj\Debug\net5.0\Access-Modifierspart-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\obj\Debug\net5.0\Access-Modifierspart-2.AssemblyInfoInputs.cache
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\obj\Debug\net5.0\Access-Modifierspart-2.AssemblyInfo.cs
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\obj\Debug\net5.0\Access-Modifierspart-2.csproj.CoreCompileInputs.cache
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\obj\Debug\net5.0\Access-Modifierspart-2.dll
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\obj\Debug\net5.0\ref\Access-Modifierspart-2.dll
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\obj\Debug\net5.0\Access-Modifierspart-2.pdb
+C:\Users\ORKHAN\Desktop\Access-Modifierspart-2\Access-Modifierspart-2\obj\Debug\net5.0\Access-Modifierspart-2.genruntimeconfig.cache
