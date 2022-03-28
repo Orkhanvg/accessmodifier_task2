@@ -1,15 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Access_Modifierspart_2.model3
 {
-    class student3 : person2
+    class Student3:Person2
     {
         private int _point;
-        public int point
+        public int Point
         {
             get
             {
@@ -36,19 +32,14 @@ namespace Access_Modifierspart_2.model3
 
 
         }
-        public student3(int point1, string name, int age) : base(name, age)
+        public Student3(int point1, string name, int age):base(name, age)
         {
-            point1 = point;
+            Point = point1;
         }
-        public student3()
+        public Student3()
         {
 
         }
-        //    public void getinfo()
-        //    {
-
-        //        Console.WriteLine($"Name      {Name}, Surname        {Surname},Age      {Age},      Point       {point}       ");
-        //    }
-        //}
+       
     }
 }

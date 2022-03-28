@@ -10,7 +10,7 @@ namespace Access_Modifierspart_2
 
             {
 
-                student3 studentnew = new student3();
+                Student3 studentnew = new Student3();
 
 
                 Console.WriteLine("please enter your name: ");
@@ -24,16 +24,11 @@ namespace Access_Modifierspart_2
 
 
                 Console.WriteLine("Please enter the Student's Point: ");
-                studentnew.point = int.Parse(Console.ReadLine());
+                studentnew.Point = int.Parse(Console.ReadLine());
 
 
 
             }
         }
-
-
-
-    
-        
     }
 }

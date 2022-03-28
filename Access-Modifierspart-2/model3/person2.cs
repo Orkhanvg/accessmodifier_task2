@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Access_Modifierspart_2.model3
 {
-    class person2
+    class Person2
     {
         private string _name;
         public string Name
@@ -30,10 +26,6 @@ namespace Access_Modifierspart_2.model3
                     Console.WriteLine("it is not correct!");
 
                 }
-
-
-
-
             }
         }
 
@@ -59,13 +51,8 @@ namespace Access_Modifierspart_2.model3
                 else
                 {
                     Console.WriteLine("it is not correct!");
-
                 }
             }
-        }
-        public person2()
-        {
-
         }
 
 
@@ -85,30 +72,22 @@ namespace Access_Modifierspart_2.model3
         }
 
 
-        public person2(string name, int age)
+        public Person2(string name, int age)
         {
-            name = Name;
-            age = Age;
+            Name = name;
+            Age = age;
+
+        }
+        public Person2()
+        {
 
         }
     }
 }
 
-        //public bool namesurname1(string word)
-        //{
-        //    bool a = false;
-        //    bool b = char.IsUpper(word[0]);
-        //        if (b == true)
-        //    {
-        //        a = true; }
-
-        //        return a;
 
 
-        //    }
-        //}
-
-        
 
 
-    
+
+
